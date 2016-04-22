@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./evripidistragoe03eurigoog/evripidistragoe03eurigoog_0396.png"; bbox 0 0 2492 3900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 583 1155 2075 1235">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 583 1155 2075 1235">
+     <span class='ocr_line' id='line_1_1' title="bbox 583 1155 2075 1235; baseline 0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 583 1161 698 1228; x_wconf 87' lang='grc' dir='ltr'><em>ΤΑ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 761 1157 947 1228; x_wconf 77' lang='grc' dir='ltr'><em>ΤΟΥ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 991 1155 1516 1226; x_wconf 85' lang='grc' dir='ltr'><em>ΔΡΑΜΑΊὈΣ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1567 1157 2075 1235; x_wconf 73' lang='grc' dir='ltr'><em>ΠΡΟΣΩΙῘΑ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 555 1439 1160 2293">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 555 1439 1160 2293">
+     <span class='ocr_line' id='line_1_2' title="bbox 563 1439 984 1499; baseline 0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 563 1439 984 1499; x_wconf 80' lang='grc' dir='ltr'><em>ΙΟΛΑΟΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 559 1535 1040 1598; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 559 1535 1040 1598; x_wconf 72' lang='grc' dir='ltr'><strong><em>ΚΟΠΡΕΤΣ.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 559 1637 898 1698; baseline -0.006 -2"><span class='ocrx_word' id='word_1_7' title='bbox 559 1637 898 1698; x_wconf 85' lang='grc' dir='ltr'><em>ΧΟΡΟΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 562 1735 1100 1797; baseline -0.006 -1"><span class='ocrx_word' id='word_1_8' title='bbox 562 1735 1100 1797; x_wconf 70' lang='grc' dir='ltr'><em>ΔΗΜΟΦΩΝ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 557 1835 1050 1896; baseline -0.008 0"><span class='ocrx_word' id='word_1_9' title='bbox 557 1835 1050 1896; x_wconf 83' lang='grc' dir='ltr'><em>ΜΑΚΑΡΙΑ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 563 1933 1068 2001; baseline -0.008 -4"><span class='ocrx_word' id='word_1_10' title='bbox 563 1933 1068 2001; x_wconf 76' lang='grc' dir='ltr'><em>ΘΕΡΑΠΩΝ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 558 2036 1101 2097; baseline -0.011 0"><span class='ocrx_word' id='word_1_11' title='bbox 558 2036 1101 2097; x_wconf 85' lang='grc' dir='ltr'><em>ΑΛΚΜΗΝΗ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 558 2136 1049 2196; baseline -0.006 -2"><span class='ocrx_word' id='word_1_12' title='bbox 558 2136 1049 2196; x_wconf 83' lang='grc' dir='ltr'><em>ΑΓΓΕΛΟΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 555 2233 1160 2293; baseline -0.007 0"><span class='ocrx_word' id='word_1_13' title='bbox 555 2233 1160 2293; x_wconf 75' lang='grc' dir='ltr'><strong><em>ΕΥΡΤΣΘΕΤΣ.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

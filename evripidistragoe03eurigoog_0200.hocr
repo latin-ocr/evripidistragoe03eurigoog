@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./evripidistragoe03eurigoog/evripidistragoe03eurigoog_0200.png"; bbox 0 0 2492 3900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 573 1091 2052 1161">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 573 1091 2052 1161">
+     <span class='ocr_line' id='line_1_1' title="bbox 573 1091 2052 1161; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 573 1094 686 1161; x_wconf 86' lang='grc' dir='ltr'><em>ΤΑ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 749 1093 947 1159; x_wconf 77' lang='grc' dir='ltr'><em>ΤΟΥ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 989 1092 1509 1159; x_wconf 86' lang='grc' dir='ltr'><em>ΔΡΑΜΑΤΟΣ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1560 1091 2052 1161; x_wconf 71' lang='grc' dir='ltr'><strong><em>ΠΡΟΣΩΙΗ.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 557 1467 1464 2300">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 566 1467 1100 1527">
+     <span class='ocr_line' id='line_1_2' title="bbox 566 1467 1100 1527; baseline -0.004 -3"><span class='ocrx_word' id='word_1_5' title='bbox 566 1467 1100 1527; x_wconf 78' lang='grc' dir='ltr'><em>ΔΙΟΝΥΣΟΣ.</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 557 1562 1464 2300">
+     <span class='ocr_line' id='line_1_3' title="bbox 565 1562 1358 1625; baseline 0.001 -5"><span class='ocrx_word' id='word_1_6' title='bbox 565 1564 691 1621; x_wconf 88' lang='lat' dir='ltr'><em>XO</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 708 1564 894 1624; x_wconf 86' lang='grc' dir='ltr'><em>ΡΟΣ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 929 1562 1358 1625; x_wconf 77' lang='grc' dir='ltr'><em>ΒΑΚΧΩΝ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 565 1660 1120 1719; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 565 1660 1120 1719; x_wconf 84' lang='grc' dir='ltr'><em>ΤΕΙΡΕΣΙΑΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 558 1757 1002 1815; baseline -0.007 0"><span class='ocrx_word' id='word_1_10' title='bbox 558 1757 1002 1815; x_wconf 86' lang='grc' dir='ltr'><em>ΚΑΔΜΟΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 562 1852 1062 1914; baseline 0.002 -2"><span class='ocrx_word' id='word_1_11' title='bbox 562 1852 1062 1914; x_wconf 76' lang='grc' dir='ltr'><em>ΠΕΝΘΕΥΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 567 1951 1063 2013; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 567 1951 1063 2013; x_wconf 77' lang='grc' dir='ltr'><em>ΘΕΡΑΠΩΝ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 559 2050 1042 2108; baseline -0.008 0"><span class='ocrx_word' id='word_1_13' title='bbox 559 2050 1042 2108; x_wconf 85' lang='grc' dir='ltr'><em>ΑΓΓΕΛΟΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 561 2145 1464 2208; baseline 0.004 -6"><span class='ocrx_word' id='word_1_14' title='bbox 561 2145 948 2202; x_wconf 87' lang='grc' dir='ltr'><strong><em>ΕΤΕΡΟΣ</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 981 2145 1464 2208; x_wconf 75' lang='grc' dir='ltr'><em>ΑΓΓΕΛΟΣ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 557 2241 922 2300; baseline -0.003 -1"><span class='ocrx_word' id='word_1_16' title='bbox 557 2241 922 2300; x_wconf 76' lang='grc' dir='ltr'><em>ΑΓΑΥΗ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
